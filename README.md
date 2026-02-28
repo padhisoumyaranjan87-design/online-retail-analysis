@@ -22,4 +22,4 @@ This project analyzes an online retail store dataset to understand customer purc
 The project provides business insights that help in inventory planning, marketing strategy, and customer targeting.
 
 ## Author
-Soumya Padhi
+Soumya Ranjan Padhi
